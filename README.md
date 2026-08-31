@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Andrei De Jesus, an aspiring Software Engineer and an Information Technology student.<br><br>I enjoy learning different programming languages, frameworks, and technologies while building projects to improve my skills. My goal is to continuously learn, build better projects, and become a skilled Software Engineer.
+Hi! I'm Andrei De Jesus, an aspiring Software Engineer and an Information Technology student.<br><br>I enjoy learning different programming languages, frameworks, and technologies while building projects to improve my skills.<br></br>My goal is to continuously learn, build better projects, and become a skilled Software Engineer.
 
 
 # 💻 Tech Stack:
